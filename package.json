@@ -1,0 +1,19 @@
+{
+    "name": "dark-theme",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "http-server -p 80"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/suckitfa/dark-theme.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/suckitfa/dark-theme/issues"
+    },
+    "homepage": "https://github.com/suckitfa/dark-theme#readme"
+}
