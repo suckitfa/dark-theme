@@ -10,7 +10,7 @@ body.dark-model {
 > js的控制
 > 使用classList.toggle('dark-model’)
 >  来控制黑白模式的切换
-> toggle这玩意就是：'有的变没，没的变有'
+> toggle这玩意就是：'有的变没，没的变有'  => 核心就是遍历classList
 ```js
     document.querySelector('body').classList('dark-toggle');
 ```
